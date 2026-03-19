@@ -1,5 +1,5 @@
 def model_A():
-    print("do this")
+    print("do this today!")
 
 
 def model_B():
